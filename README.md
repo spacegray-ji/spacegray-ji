@@ -67,17 +67,15 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center"><b>🔬 Research Interest 🔬</b></h2>
-<h2 align="center"><b>🔬 Publications 🔬</b></h2>
-<p>Disaster Response Mobility Platform Using SLAM and Object Detection  
-    Proceedings of the Korea Computer Congress, pp. 173-175, 2023</p>
-<p>Health24: Health-related Data Collection from Wearable and Mobile Devices in Everyday Lives  
-    Proceedings of the IEEE International Conference on Big Data and Smart Computing, pp. 336-337, 2023</p>
-<p>IoT based Smart Device Data Collection in Everyday Life  
-    Proceedings of the Korean Society of Computer Information Summer Conference, 325-327, 2022</p>
-<p>Counting and Localizing Occupants using IR-UWB Radar and Machine Learning  
-    Journal of the Korea Society of Computer and Information vol. 27, no. 5, pp. 1-9, 2022</p>
+
 <h2 align="center"><b>🔬 Projects 🔬</b></h2>
 <p align="center">Ongoing projects</p>
 <p align="center">Completed projects</p>
+
+<h2 align="center"><b>🔬 Publications 🔬</b></h2>
+    <p align="center">Disaster Response Mobility Platform Using SLAM and Object Detection</br>(Proceedings of the Korea Computer Congress, pp. 173-175, 2023)</p>
+    <p align="center">Health24: Health-related Data Collection from Wearable and Mobile Devices in Everyday Lives</br>(Proceedings of the IEEE International Conference on Big Data and Smart Computing, pp. 336-337, 2023)</p>
+    <p align="center">IoT based Smart Device Data Collection in Everyday Life</br>(Proceedings of the Korean Society of Computer Information Summer Conference, 325-327, 2022)</p>
+    <p align="center">Counting and Localizing Occupants using IR-UWB Radar and Machine Learning<\br>(Journal of the Korea Society of Computer and Information vol. 27, no. 5, pp. 1-9, 2022)</p>
 
 <h2 align="center"><b>🔬 Contacts 🔬</b></h2>
