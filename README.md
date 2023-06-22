@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 <h2 align="center"><b>⚒️ Tech Stack ⚒️</b></h2>
 <p align="center">Tech that I can use skillfully</p>
 <p align="center">
+    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/PyTorch-#EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
+
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
@@ -61,7 +65,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/Tableau-E6E6E6?style=flat-square&logo=Tableau&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Apache Hadoop-D22128?style=flat-square&logo=Apache&logoColor=white"/></a></center>gi
+  <img src="https://img.shields.io/badge/Apache Hadoop-D22128?style=flat-square&logo=Apache&logoColor=white"/></a></center>
 </p>
 <p align="center">Techs that i've used at least once</p>
 
