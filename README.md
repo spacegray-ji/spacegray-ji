@@ -82,3 +82,8 @@ Here are some ideas to get you started:
     <p align="center">Counting and Localizing Occupants using IR-UWB Radar and Machine Learning<\br>(Journal of the Korea Society of Computer and Information vol. 27, no. 5, pp. 1-9, 2022)</p>
 
 <h2 align="center"><b>🔬 Contacts 🔬</b></h2>
+<p align="center">
+    <a href="https://notion.so"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://notion.so"/></a>
+    <a href="mailto:spacegray.ji@sch.ac.kr"><img src="https://img.shields.io/badge/SCH-26539C?style=flat-square&logoColor=white&link=spacegray.ji@sch.ac.kr"/></a>
+    <a href="mailto:spacegray.ji@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=spacegray.ji@gmail.com"/></a>
+</p>
