@@ -48,7 +48,6 @@ Here are some ideas to get you started:
     <br>
     <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/></a>
 </p>
-
 <p align="center">Techs that i've used at least once</p>
 <p align="center">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
@@ -64,11 +63,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a></center>
-    <img src="https://img.shields.io/badge/Apache Spark-66CCFF?style=flat-square&logo=apachespark&logoColor=white"/></a></center>
-
-
+    <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a></center>
 </p>
 
-</br>
 <h2 align="center"><b>🔬 Research Interest 🔬</b></h2>
+<h2 align="center"><b>🔬 Publications 🔬</b></h2>
+<h2 align="center"><b>🔬 Projects 🔬</b></h2>
+<p align="center">Ongoing projects</p>
+<p align="center">Completed projects</p>
 
+<h2 align="center"><b>🔬 Contacts 🔬</b></h2>
