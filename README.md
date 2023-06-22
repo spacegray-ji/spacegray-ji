@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
-</br>
+</brg>
 <p align="center">Tech that I can use skillfully</p>
 
 <p align="center">Techs that i've used at least once</p>
