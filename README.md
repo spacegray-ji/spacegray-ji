@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Geonwoo%20Ji&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Contact:%20spacegray.ji@gmail.com&descAlignY=63&descAlign=60)
 </div>
-<br>
-<br>
-<h3 align="center"><b>⚒️ Tech Stack ⚒️</b></h3>
+
+<h2 align="center"><b>⚒️ Tech Stack ⚒️</b></h2>
 <p align="center">Tech that I can use skillfully</p>
 
 <p align="center">Techs that i've used at least once</p>
