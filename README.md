@@ -36,5 +36,6 @@ Here are some ideas to get you started:
 </div> -->
 
 <div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
