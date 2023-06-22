@@ -37,5 +37,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55) -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Geonwoo%20Ji&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=E-MAIL:%20spacegray.ji@gmail.com&descAlignY=51&descAlign=62)
 </div>
+
+<!-- https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62 -->
