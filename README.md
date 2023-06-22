@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/PyTorch-#EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -70,3 +70,4 @@ Here are some ideas to get you started:
 <p align="center">Techs that i've used at least once</p>
 
 <h2 align="center"><b>🔬 Research Interest 🔬</b></h2>
+
