@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-
 <!--
 **spacegray-ji/spacegray-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 
 <!-- 1.1 Tech Stack
 1.2 Techs that i've used at least once
@@ -51,7 +47,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
     <br>
     <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/></a>
-
 </p>
 
 <p align="center">Techs that i've used at least once</p>
