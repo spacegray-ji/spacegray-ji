@@ -1,30 +1,3 @@
-<!-- ### Hi there 👋 -->
-<!--
-**spacegray-ji/spacegray-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 1.1 Tech Stack
-1.2 Techs that i've used at least once
-
-2. research interest
-
-3. Publications
-
-4. project in progress
-5. project experience
-6. contact -->
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Geonwoo%20Ji&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Contact:%20spacegray.ji@gmail.com&descAlignY=63&descAlign=60)
@@ -76,15 +49,16 @@ Here are some ideas to get you started:
 <p align="center">Ongoing projects</p>
 <p align="center">Completed projects</p>
 
-<h2 align="center"><b>🔬 Publications 🔬</b></h2>
-    <p align="center"><img src="https://img.shields.io/badge/Paper 4-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp Disaster Response Mobility Platform Using SLAM and Object Detection</br>(Proceedings of the Korea Computer Congress, pp. 173-175, 2023)</p>
-    <p align="center"><a href="https://ieeexplore.ieee.org/abstract/document/10066622"><img src="https://img.shields.io/badge/Paper 3-00629B?style=flat-square&logo=Word&logoColor=white"/></a>&nbsp Health24: Health-related Data Collection from Wearable and Mobile Devices in Everyday Lives</br>(Proceedings of the IEEE International Conference on Big Data and Smart Computing, pp. 336-337, 2023)</p>
-    <p align="center"><img src="https://img.shields.io/badge/Paper 2-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp IoT based Smart Device Data Collection in Everyday Life</br>(Proceedings of the Korean Society of Computer Information Summer Conference, 325-327, 2022)</p>
-    <p align="center"><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11067159"><img src="https://img.shields.io/badge/Paper 1-00629B?style=flat-square&logo=Word&logoColor=white"/></a>&nbsp Counting and Localizing Occupants using IR-UWB Radar and Machine Learning<\br>(Journal of the Korea Society of Computer and Information vol. 27, no. 5, pp. 1-9, 2022)</p>
-
 <h2 align="center"><b>🔬 Contacts 🔬</b></h2>
 <p align="center">
     <a href="https://notion.so"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://notion.so"/></a> &nbsp 
     <a href="mailto:spacegray.ji@sch.ac.kr"><img src="https://img.shields.io/badge/SCH-26539C?style=flat-square&logoColor=white&link=spacegray.ji@sch.ac.kr"/></a> &nbsp 
     <a href="mailto:spacegray.ji@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=spacegray.ji@gmail.com"/></a>
 </p>
+
+
+<h2 align="center"><b>🔬 Publications 🔬</b></h2>
+    <p align="center"><img src="https://img.shields.io/badge/Paper 4-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp Disaster Response Mobility Platform Using SLAM and Object Detection</br>(Proceedings of the Korea Computer Congress, pp. 173-175, 2023)</p>
+    <p align="center"><a href="https://ieeexplore.ieee.org/abstract/document/10066622"><img src="https://img.shields.io/badge/Paper 3-00629B?style=flat-square&logo=Word&logoColor=white"/></a>&nbsp Health24: Health-related Data Collection from Wearable and Mobile Devices in Everyday Lives</br>(Proceedings of the IEEE International Conference on Big Data and Smart Computing, pp. 336-337, 2023)</p>
+    <p align="center"><img src="https://img.shields.io/badge/Paper 2-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp IoT based Smart Device Data Collection in Everyday Life</br>(Proceedings of the Korean Society of Computer Information Summer Conference, 325-327, 2022)</p>
+    <p align="center"><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11067159"><img src="https://img.shields.io/badge/Paper 1-00629B?style=flat-square&logo=Word&logoColor=white"/></a>&nbsp Counting and Localizing Occupants using IR-UWB Radar and Machine Learning<\br>(Journal of the Korea Society of Computer and Information vol. 27, no. 5, pp. 1-9, 2022)</p>
