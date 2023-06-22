@@ -48,6 +48,7 @@ Here are some ideas to get you started:
     <br>
     <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Mobius IoT Platform-007396?style=flat-square&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/></a>
 </p>
 <p align="center">Techs that i've used at least once</p>
