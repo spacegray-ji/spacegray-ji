@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> &nbsp 
     <br>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/></a> &nbsp 
@@ -46,7 +47,7 @@
 </p>
 
 <h2 align="center"><b>🔬 Research Interest 🔬</b></h2>
-
+📸 Computer Vision<br>
 <h2 align="center"><b>💻 Projects 💻</b></h2>
 <p align="center">Ongoing projects</p>
 <p align="center">Completed projects</p>
