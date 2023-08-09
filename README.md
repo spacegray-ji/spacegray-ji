@@ -47,7 +47,7 @@
 </p>
 
 <h2 align="center"><b>🔬 Research Interest 🔬</b></h2>
-<p align="center">📸 Computer Vision</p>
+<p align="center">📸 Computer Vision   ⚙️ Generative AI</p>
 <h2 align="center"><b>💻 Projects 💻</b></h2>
 <p align="center">Ongoing projects</p>
 <p align="center">Completed projects</p>
