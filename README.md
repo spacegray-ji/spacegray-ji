@@ -61,8 +61,8 @@
 
 
 <h2 align="center"><b>📝 Publications 📝</b></h2>
-    <p align="center"><img src="https://img.shields.io/badge/Paper 6-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In progress </br>(In progress)</p>
-    <p align="center"><img src="https://img.shields.io/badge/Paper 5-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In progress </br>(In progress)</p>
+<!--     <p align="center"><img src="https://img.shields.io/badge/Paper 6-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In progress </br>(In progress)</p>
+    <p align="center"><img src="https://img.shields.io/badge/Paper 5-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In progress </br>(In progress)</p> -->
     <p align="center"><img src="https://img.shields.io/badge/Paper 4-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp Disaster Response Mobility Platform Using SLAM and Object Detection</br>(Proceedings of the Korea Computer Congress, pp. 173-175, 2023)</p>
     <p align="center"><a href="https://ieeexplore.ieee.org/abstract/document/10066622"><img src="https://img.shields.io/badge/Paper 3-00629B?style=flat-square&logo=Word&logoColor=white"/></a>&nbsp Health24: Health-related Data Collection from Wearable and Mobile Devices in Everyday Lives</br>(Proceedings of the IEEE International Conference on Big Data and Smart Computing, pp. 336-337, 2023)</p>
     <p align="center"><img src="https://img.shields.io/badge/Paper 2-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp IoT based Smart Device Data Collection in Everyday Life</br>(Proceedings of the Korean Society of Computer Information Summer Conference, 325-327, 2022)</p>
