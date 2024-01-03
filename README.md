@@ -62,7 +62,7 @@
 
 
 <h2 align="center"><b>📝 Publications 📝</b></h2>
-<!--     <p align="center"><img src="https://img.shields.io/badge/Paper 6-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In progress </br>(In progress)</p> -->
+    <p align="center"><img src="https://img.shields.io/badge/Paper 6-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In progress </br>(In progress)</p>
     <p align="center"><img src="https://img.shields.io/badge/Paper 6-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In progress </br>(In progress)</p>
     <p align="center"><img src="https://img.shields.io/badge/Paper 6-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In progress </br>(In reviewing)</p>
     <p align="center"><img src="https://img.shields.io/badge/Paper 5-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In progress </br>(In reviewing)</p>
