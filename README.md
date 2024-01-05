@@ -49,7 +49,7 @@
 <h2 align="center"><b>🔬 Research Interest 🔬</b></h2>
 <p align="center">📸 Computer Vision &nbsp
     ⚙️ Generative AI  &nbsp
-    Federated Laerning </p>
+    🤝 Federated Laerning </p>
 <h2 align="center"><b>💻 Projects 💻</b></h2>
 <p align="center">Ongoing projects</p>
 <p align="center">Completed projects</p>
