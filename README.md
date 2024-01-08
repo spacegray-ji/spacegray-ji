@@ -44,6 +44,9 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>
+    <br>
+    <img src="https://img.shields.io/badge/Kafka-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+    
 </p>
 
 <h2 align="center"><b>🔬 Research Interest 🔬</b></h2>
