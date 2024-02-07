@@ -26,6 +26,9 @@
     <img src="https://img.shields.io/badge/Mobius IoT Platform-007396?style=flat-square&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/></a>
+    <br>
+    <img src="https://img.shields.io/badge/Jetson platform-47A141?style=flat-square&logo=Overleaf&logoColor=white"/></a>
+    
 </p>
 <p align="center">Techs that i've used at least once</p>
 <p align="center">
