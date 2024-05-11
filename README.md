@@ -49,9 +49,9 @@
     <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>
     <br>
     <img src="https://img.shields.io/badge/Kafka-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/cAdvisor-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Prometheus-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Grafana-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/Prometheus-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/Prometheus-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
     
 </p>
 
