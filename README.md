@@ -52,6 +52,7 @@
     <img src="https://img.shields.io/badge/cAdvisor-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Prometheus-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Grafana-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Locust-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
     
 </p>
 
