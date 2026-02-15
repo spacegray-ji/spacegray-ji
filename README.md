@@ -6,6 +6,12 @@
 <h2 align="center"><b>⚒️ Tech Stack ⚒️</b></h2>
 <p align="center">Tech that I can use skillfully</p>
 <p align="center">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logo=crewai&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/vLLM-000000?style=flat-square&logo=ollama&logoColor=white"/></a> &nbsp
+    <br>
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a> &nbsp 
@@ -19,6 +25,7 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/></a> &nbsp 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
     <br>
     <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white"/></a> &nbsp 
@@ -27,7 +34,7 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/></a>
     <br>
-    <img src="https://img.shields.io/badge/Jetson platform-47A141?style=flat-square&logo=Overleaf&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Jetson platform-76B900?style=flat-square&logo=nvidia&logoColor=white"/></a>
     
 </p>
 <p align="center">Techs that i've used at least once</p>
@@ -38,7 +45,6 @@
     <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
     <br>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
@@ -48,16 +54,22 @@
     <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a> &nbsp 
     <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>
     <br>
-    <img src="https://img.shields.io/badge/Kafka-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/cAdvisor-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/Prometheus-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/Grafana-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-    <img src="https://img.shields.io/badge/Locust-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a> &nbsp
+    <!-- <img src="https://img.shields.io/badge/cAdvisor-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp -->
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/></a> &nbsp
+    <!-- <img src="https://img.shields.io/badge/Locust-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp -->
     
 </p>
 
 <h2 align="center"><b>🔬 Research Interest 🔬</b></h2>
-<p align="center">📸 Computer Vision &nbsp
+<p align="center">
+    🧠 Large Language Model &nbsp
+    🤖 AI Agent &nbsp
+    📚 RAG (Retrieval Augmented Generation) &nbsp
+    🕸️ Ontology &nbsp
+    <br>
+    📸 Computer Vision &nbsp
     ⚙️ Generative AI  &nbsp
     🤝 Federated Laerning </p>
 <h2 align="center"><b>💻 Projects 💻</b></h2>
@@ -73,7 +85,6 @@
 
 
 <h2 align="center"><b>📝 Publications 📝</b></h2>
-    <p align="center"><img src="https://img.shields.io/badge/Paper 6-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In progress </br>(In progress)</p>
     <p align="center"><img src="https://img.shields.io/badge/Paper 6-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In progress </br>(In progress)</p>
     <p align="center"><img src="https://img.shields.io/badge/Paper 6-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In reviewing </br>(In reviewing)</p>
     <p align="center"><img src="https://img.shields.io/badge/Paper 5-00629B?style=flat-square&logo=Word&logoColor=white"/>&nbsp In reviewing </br>(In reviewing)</p>
