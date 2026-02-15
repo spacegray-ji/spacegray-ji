@@ -72,14 +72,13 @@
     📸 Computer Vision &nbsp
     ⚙️ Generative AI  &nbsp
     🤝 Federated Laerning </p>
-<h2 align="center"><b>💻 Projects 💻</b></h2>
+<!-- <h2 align="center"><b>💻 Projects 💻</b></h2>
 <p align="center">Ongoing projects</p>
-<p align="center">Completed projects</p>
+<p align="center">Completed projects</p> -->
 
 <h2 align="center"><b>✉️ Contacts ✉️</b></h2>
 <p align="center">
     <a href="https://notion.so"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://notion.so"/></a> &nbsp 
-    <a href="mailto:spacegray.ji@sch.ac.kr"><img src="https://img.shields.io/badge/SCH-26539C?style=flat-square&logoColor=white&link=spacegray.ji@sch.ac.kr"/></a> &nbsp 
     <a href="mailto:spacegray.ji@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=spacegray.ji@gmail.com"/></a>
 </p>
 
