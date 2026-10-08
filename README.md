@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center"><b>⚒️ Tech Stack ⚒️</b></h2>
-<p align="center">Tech that I can use skillfully</p>
+<p align="center">Core tools I work with</p>
 <p align="center">
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/> &nbsp
@@ -19,56 +19,23 @@
     <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
     <br>
-    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> &nbsp 
-    <br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Mobius IoT Platform-007396?style=flat-square&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/Jetson platform-76B900?style=flat-square&logo=nvidia&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/FalkorDB-1A1A2E?style=flat-square"/>
-    
-</p>
-<p align="center">Techs that I've used at least once</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> &nbsp
-    <!-- <img src="https://img.shields.io/badge/cAdvisor-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp -->
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> &nbsp
-    <!-- <img src="https://img.shields.io/badge/Locust-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp -->
-    
+    <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Mobius IoT Platform-007396?style=flat-square"/>
 </p>
 
 <h2 align="center"><b>🔬 Research Interest 🔬</b></h2>
