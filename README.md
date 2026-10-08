@@ -6,14 +6,18 @@
 <h2 align="center"><b>⚒️ Tech Stack ⚒️</b></h2>
 <p align="center">Tech that I can use skillfully</p>
 <p align="center">
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/> &nbsp 
-    <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logo=crewai&logoColor=white"/> &nbsp 
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logo=crewai&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Pydantic AI-E92063?style=flat-square&logo=pydantic&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Langfuse-000000?style=flat-square"/>
+    <br>
+    <img src="https://img.shields.io/badge/Claude Code-D97757?style=flat-square&logo=claudecode&logoColor=white"/> &nbsp
+    <img src="https://img.shields.io/badge/Codex-000000?style=flat-square"/> &nbsp
     <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Claude Code-D97757?style=flat-square&logo=claudecode&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> &nbsp
+    <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
     <br>
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> &nbsp 
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> &nbsp 
